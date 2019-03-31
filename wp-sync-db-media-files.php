@@ -2,10 +2,10 @@
 /*
 Plugin Name: WP Sync DB Media Files
 Description: An extension of WP Sync DB that allows the migration of media files.
-Author: Sean Lang
-Version: 1.1.4b1
+Author: Pixel Studio
+Version: 1.1.5
 Author URI: http://slang.cx
-GitHub Plugin URI: wp-sync-db/wp-sync-db-media-files
+Plugin URI: http://github.com/hrsetyono/wp-sync-db-media-files
 Network: True
 */
 

@@ -1,4 +1,9 @@
-# WP Sync DB Media Files
-An addon for [WP Sync DB](https://github.com/wp-sync-db/wp-sync-db) that lets you sync media libraries between WordPress installations.
+# WP Sync Media
 
-<p align="center"><a><img src="https://raw.github.com/slang800/psychic-ninja/master/wp-sync-db-media-files.png"/></a></p>
+An addon for [WP Sync DB](https://github.com/hrsetyono/wp-sync-db) that lets you sync media libraries between WordPress installations.
+
+## How to Use
+
+Tick "Media Files" when pulling / pushing in WP Sync DB.
+
+<img src="https://raw.github.com/slang800/psychic-ninja/master/wp-sync-db-media-files.png"/>
